@@ -1,3 +1,5 @@
 stackoverflow.com###sidebar:remove()
 stackoverflow.com###mainbar:style(width: unset !important)
 stackoverflow.com###content:style(max-width: unset !important)
+
+login.microsoftonline.com##div.outer:style{background-color: #202020 !important}
