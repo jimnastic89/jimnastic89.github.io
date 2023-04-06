@@ -3,3 +3,13 @@ stackoverflow.com###mainbar:style(width: unset !important)
 stackoverflow.com###content:style(max-width: unset !important)
 
 login.microsoftonline.com##.outer:style(background-color: #202020 !important)
+
+answers.microsoft.com##body:style(color: #fff !important; background-color: rgb(32,33,36) !important)
+answers.microsoft.com##.theme-light:style(color: #fff !important; background-color: #333 !important)
+answers.microsoft.com###Footer:style(color: #000 !important;background-color: #333 !important)
+answers.microsoft.com##[class^=c-uhff]:style(background-color: transparent !important)
+answers.microsoft.com###allRepliesLink:style(background-color: transparent !important)
+answers.microsoft.com##[role=presentation]:style(background-color: transparent !important)
+answers.microsoft.com###threadBottomSection:style(background-color: transparent !important)
+answers.microsoft.com##.m-card:style(background-color: transparent !important)
+answers.microsoft.com##.m-alert:style(color: white !important; background-color: transparent !important)
