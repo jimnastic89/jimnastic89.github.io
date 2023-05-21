@@ -5,6 +5,8 @@ stackoverflow.com##+js(ac, theme-dark, body)
 
 login.microsoftonline.com##.outer:style(background-color: #202020 !important)
 
+security.microsoft.com##+js(rpc, [class*=lighttheme], lighttheme, darktheme)
+
 answers.microsoft.com##body:style(color: #fff !important; background-color: rgb(32,33,36) !important)
 answers.microsoft.com##.theme-light:style(color: #fff !important; background-color: #333 !important)
 answers.microsoft.com###Footer:style(color: #000 !important;background-color: #333 !important)
