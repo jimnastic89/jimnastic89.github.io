@@ -5,6 +5,9 @@ stackoverflow.com##+js(ac, theme-dark, body)
 
 login.microsoftonline.com##.outer:style(background-color: #202020 !important)
 
+selfservice.aurion.cloud###overlay:style(width: 800px; height: fit-content; margin: auto; border-radius: 5px;)
+selfservice.aurion.cloud##modal:style(background-color: #f4f4f4;)
+
 security.microsoft.com###viewport:style(background: #202124 !important)
 security.microsoft.com###loadingScreen:style(background: #202124 !important)
 security.microsoft.com###app-contents:style(background: #00000000 !important)
