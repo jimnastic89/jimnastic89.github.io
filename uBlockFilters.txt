@@ -73,6 +73,8 @@ cergovau.sharepoint.com##.od-ItemActivityFeed-title-old:style(color: #FFFFFF !im
 cergovau.sharepoint.com##.sp-appBar:style(background: #303134 !important)
 cergovau.sharepoint.com##[class^="headerRow"]:style(background: #303134 !important)
 
+codeproject.com##body,.container-content:style(background-color: black !important)
+
 cera.cer.gov.au,cerprod.servicenowcloud.com.au##table.sc_editor:style(background-color: rgb(14,13,12) !important)
 cera.cer.gov.au,cerprod.servicenowcloud.com.au##.container_table:style(background-color: rgb(14,13,12) !important)
 cera.cer.gov.au,cerprod.servicenowcloud.com.au##.veditor_body:style(border: none !important)
