@@ -1,3 +1,6 @@
+# add this url to settings > advanced > userResourcesLocation
+# https://raw.githubusercontent.com/uBlockO/uBO-Scriptlets/master/scriptlets.js
+
 stackoverflow.com###sidebar:remove()
 stackoverflow.com###mainbar:style(width: unset !important)
 stackoverflow.com###content:style(max-width: unset !important)
@@ -32,6 +35,14 @@ security.microsoft.com##[role=menubar]:style(background-color: transparent !impo
 security.microsoft.com##[role=menuitem]:style(background-color: transparent !important)
 security.microsoft.com##ms-List::after:style(background-color: transparent !important)
 security.microsoft.com##[class^=body-]:style(color: #f0f0f0 !important)
+security.microsoft.com##+js(rpc, body, lighttheme, darktheme)
+security.microsoft.com##[style*="Times New Roman"]:style(Font-Family: "Segoe UI" !important;)
+security.microsoft.com##.ms-Checkbox:style(color: rgb(205,206,207) !important)
+security.microsoft.com##[role=tabpanel] > div:style(background-color: White)
+security.microsoft.com##+js(rpc, body, lighttheme, darktheme)
+security.microsoft.com##[style*="Times New Roman"]:style(Font-Family: "Segoe UI" !important;)
+security.microsoft.com##.ms-Checkbox:style(color: rgb(205,206,207) !important)
+security.microsoft.com##[role=tabpanel] > div:style(background-color: White)
 
 compliance.microsoft.com##[class^="scc-app-main-"]:style(background-color: #303134 !important)
 compliance.microsoft.com##[class^="scc-app-page-header-"]:style(background-color: #303134 !important; color: #FFFFFF !important)
