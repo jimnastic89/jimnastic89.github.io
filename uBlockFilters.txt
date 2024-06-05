@@ -1,10 +1,10 @@
 # add this url to settings > advanced > userResourcesLocation
 # https://raw.githubusercontent.com/uBlockO/uBO-Scriptlets/master/scriptlets.js
 
-stackoverflow.com###sidebar:remove()
-stackoverflow.com###mainbar:style(width: unset !important)
-stackoverflow.com###content:style(max-width: unset !important)
-stackoverflow.com##+js(ac, theme-dark, body)
+stackoverflow.com,superuser.com###sidebar:remove()
+stackoverflow.com,superuser.com###mainbar:style(width: unset !important)
+stackoverflow.com,superuser.com###content:style(max-width: unset !important)
+stackoverflow.com,superuser.com##+js(ac, theme-dark, body)
 
 login.microsoftonline.com##.outer:style(background-color: #202020 !important)
 
