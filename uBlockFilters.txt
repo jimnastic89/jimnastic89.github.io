@@ -84,6 +84,11 @@ cergovau.sharepoint.com##.od-ItemActivity-item:style(color: #F0F0F0 !important)
 cergovau.sharepoint.com##.od-ItemActivityFeed-title-old:style(color: #FFFFFF !important)
 cergovau.sharepoint.com##.sp-appBar:style(background: #303134 !important)
 cergovau.sharepoint.com##[class^="headerRow"]:style(background: #303134 !important)
+cergovau.sharepoint.com##[class*=PrimaryPane]:style(background-color: #202124 !important; color: White !important)
+cergovau.sharepoint.com##[class*=SharingSection]:style(background-color: #303134 !important)
+cergovau.sharepoint.com##.InfoPane-section:style(background-color: #303134 !important)
+cergovau.sharepoint.com##.ReactFieldEditor-fieldTitle:style(color: White !important)
+cergovau.sharepoint.com##.sp-appBar:style(border-right-color: #151515 !important)
 
 codeproject.com##body,.container-content:style(background-color: black !important)
 
