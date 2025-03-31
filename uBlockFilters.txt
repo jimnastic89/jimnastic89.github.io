@@ -1,6 +1,9 @@
 # add this url to settings > advanced > userResourcesLocation
 # https://raw.githubusercontent.com/uBlockO/uBO-Scriptlets/master/scriptlets.js
 
+ipqualityscore.com##.alert-info
+ipqualityscore.com##.alert-success
+
 stackoverflow.com,superuser.com,serverfault.com###sidebar:remove()
 stackoverflow.com,superuser.com,serverfault.com###mainbar:style(width: unset !important)
 stackoverflow.com,superuser.com,serverfault.com###content:style(max-width: unset !important)
