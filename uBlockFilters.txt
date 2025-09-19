@@ -1,4 +1,4 @@
-# add this url to settings > advanced > userResourcesLocation
+c# add this url to settings > advanced > userResourcesLocation
 # https://raw.githubusercontent.com/uBlockO/uBO-Scriptlets/master/scriptlets.js
 
 ipqualityscore.com##.alert-info
@@ -47,6 +47,7 @@ aurion.cloud##body:style(background-color: #313236 !important)
 #security.microsoft.com##[style*="Times New Roman"]:style(Font-Family: "Segoe UI" !important;)
 #security.microsoft.com##.ms-Checkbox:style(color: rgb(205,206,207) !important)
 #security.microsoft.com##[role=tabpanel] > div:style(background-color: White)
+security.microsoft.com##a:has-text(/unsubscribe/):style(font-size: large !important; color: red !important; background-color: yellow !important)
 
 #compliance.microsoft.com##[class^="scc-app-main-"]:style(background-color: #303134 !important)
 #compliance.microsoft.com##[class^="scc-app-page-header-"]:style(background-color: #303134 !important; color: #FFFFFF !important)
@@ -94,6 +95,8 @@ answers.microsoft.com##.m-alert:style(color: white !important; background-color:
 #cergovau.sharepoint.com##.sp-appBar:style(border-right-color: #151515 !important)
 
 codeproject.com##body,.container-content:style(background-color: black !important)
+
+liq.email##input[value="Resubscribe"]
 
 cera.cer.gov.au,cerprod.servicenowcloud.com.au##table.sc_editor:style(background-color: rgb(14,13,12) !important)
 cera.cer.gov.au,cerprod.servicenowcloud.com.au##.container_table:style(background-color: rgb(14,13,12) !important)
