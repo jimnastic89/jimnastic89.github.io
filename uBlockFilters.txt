@@ -51,6 +51,10 @@ security.microsoft.com##a:has-text(/unsubscribe/):style(font-size: 30px !importa
 security.microsoft.com##a:has-text(/Unsubscribe/):style(font-size: 30px !important; color: red !important; background-color: yellow !important)
 security.microsoft.com##font:has-text(/unsubscribe/):style(font-size: 30px !important; color: red !important; background-color: yellow !important)
 security.microsoft.com##font:has-text(/Unsubscribe/):style(font-size: 30px !important; color: red !important; background-color: yellow !important)
+security.microsoft.com##a:has-text(/preferences/):style(font-size: 30px !important; color: red !important; background-color: yellow !important)
+security.microsoft.com##a:has-text(/Preferences/):style(font-size: 30px !important; color: red !important; background-color: yellow !important)
+security.microsoft.com##font:has-text(/preferences/):style(font-size: 30px !important; color: red !important; background-color: yellow !important)
+security.microsoft.com##font:has-text(/Preferences/):style(font-size: 30px !important; color: red !important; background-color: yellow !important)
 
 #compliance.microsoft.com##[class^="scc-app-main-"]:style(background-color: #303134 !important)
 #compliance.microsoft.com##[class^="scc-app-page-header-"]:style(background-color: #303134 !important; color: #FFFFFF !important)
