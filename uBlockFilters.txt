@@ -1,4 +1,4 @@
-c# add this url to settings > advanced > userResourcesLocation
+# add this url to settings > advanced > userResourcesLocation
 # https://raw.githubusercontent.com/uBlockO/uBO-Scriptlets/master/scriptlets.js
 
 ipqualityscore.com##.alert-info
